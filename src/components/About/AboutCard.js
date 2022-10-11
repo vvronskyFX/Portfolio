@@ -36,6 +36,18 @@ function AboutCard() {
             <li className="about-activity">
               <ImPointRight /> Target Shooting
             </li>
+           <li className="about-activity">
+              <ImPointRight /> Building Cool Applications
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Learning about Economics
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Learning about new tech
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Mind-hacking, Running, Swimming & Biking
+            </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
