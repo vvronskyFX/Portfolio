@@ -103,7 +103,9 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 */}
-            <Nav.Item className="fork-btn">
+
+{/* Create own Git repository of this code */}
+            {/* <Nav.Item className="fork-btn">
               <Button
                 href="https://github.com/vvronskyFX/Portfolio.git"
                 target="_blank"
@@ -112,7 +114,7 @@ function NavBar() {
                 <CgGitFork style={{ fontSize: "1.2em" }} />{" "}
                 <AiFillGithub style={{ fontSize: "1.1em" }} />
               </Button>
-            </Nav.Item>
+            </Nav.Item> */}
           </Nav>
         </Navbar.Collapse>
       </Container>
